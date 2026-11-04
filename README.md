@@ -1,4 +1,4 @@
-# Sổ Quầy
+# WorkHard
 Ứng dụng tiếng Việt cho chủ cửa hàng. Quản lý sản phẩm theo đơn vị tùy chọn, đơn vị đóng gói hoặc cuộn có khổ cố định. Hỗ trợ nhập kho, bán nhiều mặt hàng trong một hóa đơn, thu tiền mặt, QR, bán chịu, thu nợ, lịch sử, in phiếu và báo cáo theo kỳ.
 
 ## Chạy trên máy
